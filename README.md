@@ -1,0 +1,1 @@
+This program calculates how savings grow over time with compound interest. Starting from an initial balance of $10,000 at a fixed yearly interest rate (5%), it asks the user for the number of years, then outputs the savings at the start of each year until the chosen period ends.
